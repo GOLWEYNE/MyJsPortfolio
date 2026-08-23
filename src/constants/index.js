@@ -196,7 +196,7 @@ const testimonials = [
 
 const projects = [
     {
-            name: "Alan International School,
+            name: "Alan International School",
             description:
             "Full-featured school management platform for Alan International School, covering admissions, classes, attendance, results, and communication between teachers, students, and parents.",
             tags: [
