@@ -20,6 +20,7 @@ import {
       tesla,
       shopify,
       carrent,
+      alanschool,
       threejs,
 } from "../assets";
 
@@ -213,7 +214,7 @@ const projects = [
                             color: "pink-text-gradient",
                 },
                     ],
-            image: carrent,
+            image: alanschool,
             source_code_link: "https://alaninternationalschool.com",
     },
     ];
